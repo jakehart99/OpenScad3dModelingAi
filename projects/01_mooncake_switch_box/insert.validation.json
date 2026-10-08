@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\projects\\01_mooncake_switch_box\\insert.stl",
+  "units_assumed": "mm",
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "triangles": 6076,
+  "vertices": 3032,
+  "bounds_mm": [
+    [
+      -38.29998779296875,
+      -38.29998779296875,
+      0.0
+    ],
+    [
+      38.29998779296875,
+      38.29998779296875,
+      14.5
+    ]
+  ],
+  "dimensions_mm": [
+    76.5999755859375,
+    76.5999755859375,
+    14.5
+  ],
+  "surface_area_mm2": 23484.82716928438,
+  "signed_volume_mm3": 20258.63177911006,
+  "watertight": true,
+  "winding_consistent": true,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "pinched_vertices_between_shells": 0,
+  "degenerate_triangles": 0,
+  "duplicate_triangles": 0,
+  "surface_shell_count": 1,
+  "surface_shells": [
+    {
+      "faces": 6076,
+      "signed_volume_mm3": 20258.63177911006,
+      "min_z_mm": 0.0
+    }
+  ],
+  "a1_build_volume_mm": [
+    256.0,
+    256.0,
+    256.0
+  ],
+  "fits_a1_current_orientation": true,
+  "bed_margin_per_xy_edge_mm": 2,
+  "fits_with_margin": true,
+  "axis_permutations_fitting_margin": [
+    {
+      "xyz_from_axes": "XYZ",
+      "dimensions_mm": [
+        76.5999755859375,
+        76.5999755859375,
+        14.5
+      ]
+    },
+    {
+      "xyz_from_axes": "XZY",
+      "dimensions_mm": [
+        76.5999755859375,
+        14.5,
+        76.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "YXZ",
+      "dimensions_mm": [
+        76.5999755859375,
+        76.5999755859375,
+        14.5
+      ]
+    },
+    {
+      "xyz_from_axes": "YZX",
+      "dimensions_mm": [
+        76.5999755859375,
+        14.5,
+        76.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "ZXY",
+      "dimensions_mm": [
+        14.5,
+        76.5999755859375,
+        76.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "ZYX",
+      "dimensions_mm": [
+        14.5,
+        76.5999755859375,
+        76.5999755859375
+      ]
+    }
+  ],
+  "overhang_angle_from_vertical_deg": 45,
+  "candidate_overhang_area_mm2": 0.0,
+  "candidate_overhang_faces": 0,
+  "bed_contact_area_mm2": 5016.969706707634,
+  "bed_reference_z_mm": 0.0,
+  "limitations": [
+    "STL is unitless; dimensions are interpreted as millimeters",
+    "Self-intersections, overlapping shells and local wall thickness are not tested",
+    "Shells count connected surfaces, not necessarily separate physical parts",
+    "Overhang areas are advisory, not a support or bridge simulation"
+  ]
+}

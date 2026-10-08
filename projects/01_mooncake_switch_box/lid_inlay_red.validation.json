@@ -1,0 +1,264 @@
+{
+  "file": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\projects\\01_mooncake_switch_box\\lid_inlay_red.stl",
+  "units_assumed": "mm",
+  "passed": true,
+  "errors": [],
+  "warnings": [
+    "Multiple surface shells: check intentional parts/cavities in the slicer"
+  ],
+  "triangles": 34236,
+  "vertices": 17134,
+  "bounds_mm": [
+    [
+      -40.29998779296875,
+      -40.29998779296875,
+      0.0
+    ],
+    [
+      40.29998779296875,
+      40.29998779296875,
+      0.6000000238418579
+    ]
+  ],
+  "dimensions_mm": [
+    80.5999755859375,
+    80.5999755859375,
+    0.6000000238418579
+  ],
+  "surface_area_mm2": 4426.970148529398,
+  "signed_volume_mm3": 946.1463378647679,
+  "watertight": true,
+  "winding_consistent": true,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "pinched_vertices_between_shells": 0,
+  "degenerate_triangles": 0,
+  "duplicate_triangles": 0,
+  "surface_shell_count": 31,
+  "surface_shells": [
+    {
+      "faces": 992,
+      "signed_volume_mm3": 391.9325096948572,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 276,
+      "signed_volume_mm3": 9.721320378432296,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 276,
+      "signed_volume_mm3": 9.721320378432539,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 276,
+      "signed_volume_mm3": 9.721320378432303,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 276,
+      "signed_volume_mm3": 9.721320378432347,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 4176,
+      "signed_volume_mm3": 98.80337986099728,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 104,
+      "signed_volume_mm3": 31.46258734017958,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 96,
+      "signed_volume_mm3": 28.142485955493584,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 1596,
+      "signed_volume_mm3": 47.91837904850696,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 816,
+      "signed_volume_mm3": 19.02621689155754,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 22484,
+      "signed_volume_mm3": 220.01342054525267,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 108,
+      "signed_volume_mm3": 23.47371925029,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 808,
+      "signed_volume_mm3": 17.264275489360102,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 284,
+      "signed_volume_mm3": 3.5640861277633413,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 252,
+      "signed_volume_mm3": 6.323287411423968,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 92,
+      "signed_volume_mm3": 1.19863446167835,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 284,
+      "signed_volume_mm3": 2.8868919780934994,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 92,
+      "signed_volume_mm3": 1.1986344616782734,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 36,
+      "signed_volume_mm3": 0.35707746211932995,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.896856401177036,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.896855856213628,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 116,
+      "signed_volume_mm3": 1.6301553355560656,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 116,
+      "signed_volume_mm3": 1.6301553355560596,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968558562135773,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968564011770187,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968558562136314,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 116,
+      "signed_volume_mm3": 1.6301553355560643,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968564011770374,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968558562135632,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 116,
+      "signed_volume_mm3": 1.6301553355560372,
+      "min_z_mm": 0.0
+    },
+    {
+      "faces": 56,
+      "signed_volume_mm3": 0.8968564011770178,
+      "min_z_mm": 0.0
+    }
+  ],
+  "a1_build_volume_mm": [
+    256.0,
+    256.0,
+    256.0
+  ],
+  "fits_a1_current_orientation": true,
+  "bed_margin_per_xy_edge_mm": 2,
+  "fits_with_margin": true,
+  "axis_permutations_fitting_margin": [
+    {
+      "xyz_from_axes": "XYZ",
+      "dimensions_mm": [
+        80.5999755859375,
+        80.5999755859375,
+        0.6000000238418579
+      ]
+    },
+    {
+      "xyz_from_axes": "XZY",
+      "dimensions_mm": [
+        80.5999755859375,
+        0.6000000238418579,
+        80.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "YXZ",
+      "dimensions_mm": [
+        80.5999755859375,
+        80.5999755859375,
+        0.6000000238418579
+      ]
+    },
+    {
+      "xyz_from_axes": "YZX",
+      "dimensions_mm": [
+        80.5999755859375,
+        0.6000000238418579,
+        80.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "ZXY",
+      "dimensions_mm": [
+        0.6000000238418579,
+        80.5999755859375,
+        80.5999755859375
+      ]
+    },
+    {
+      "xyz_from_axes": "ZYX",
+      "dimensions_mm": [
+        0.6000000238418579,
+        80.5999755859375,
+        80.5999755859375
+      ]
+    }
+  ],
+  "overhang_angle_from_vertical_deg": 45,
+  "candidate_overhang_area_mm2": 0.0,
+  "candidate_overhang_faces": 0,
+  "bed_contact_area_mm2": 1576.9105004471494,
+  "bed_reference_z_mm": 0.0,
+  "limitations": [
+    "STL is unitless; dimensions are interpreted as millimeters",
+    "Self-intersections, overlapping shells and local wall thickness are not tested",
+    "Shells count connected surfaces, not necessarily separate physical parts",
+    "Overhang areas are advisory, not a support or bridge simulation"
+  ]
+}
