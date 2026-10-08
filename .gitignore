@@ -1,0 +1,7 @@
+# Keep the projects directory, but keep all model projects local.
+/projects/*
+!/projects/.gitkeep
+
+# Python bytecode caches.
+__pycache__/
+*.pyc

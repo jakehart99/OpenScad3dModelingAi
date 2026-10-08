@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "source": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.scad",
+  "definitions": [],
+  "bosl2_version": "2.0.766",
+  "source_sha256": "54633cc232b49de3f3ad8761e2af95b52793d7a02c343e6673b1f455756fe6b1",
+  "openscad_version": "OpenSCAD version 2021.01",
+  "export": {
+    "source": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.scad",
+    "output": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.stl",
+    "definitions": [],
+    "openscad": "C:\\Program Files\\OpenSCAD\\openscad.com",
+    "log": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.stl.openscad.log",
+    "bytes": 15384
+  },
+  "stl_sha256": "b221d461d1decdef8d7575e569febdbdf50e9da53fc453ada9c2f3d68defd840",
+  "png_sha256": "2b9eedd250f9796ecb56f35c1946979c27b2d51f0f14263a4d0ec90b55ee88e3",
+  "stl": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.stl",
+  "png": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.png",
+  "validation": "C:\\Users\\jakeh\\Documents\\OpenSCAD_AI\\tools\\examples\\bosl2_plate\\bosl2_plate.validation.json"
+}

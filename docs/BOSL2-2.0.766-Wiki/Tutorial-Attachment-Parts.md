@@ -1,0 +1,53 @@
+[Prev: Using attach()](Tutorial-Attachment-Attach)
+
+# Attachable Parts
+
+Some objects provide named attachable parts that you can select
+instead of using the main geometry for the object.  One important kind
+of attachable part is the inside of a tube.
+
+Here is a tube with its anchors shown:
+
+```openscad
+include<BOSL2/std.scad>
+tube(id=20,h=15,wall=3)
+  show_anchors();
+```
+![Figure 1](images/tutorials/Attachment-Parts_1.png)
+
+The anchors are all on the outside wall of the tube and give you no
+method for placing a child **inside** the tube.  In order to attach
+inside the tube, we select the "inside" part using the `attach_part()`
+module.
+
+```openscad
+include<BOSL2/std.scad>
+tube(id=20,h=15,wall=3)
+  attach_part("inside")
+    align(BACK,TOP)
+      color("lightblue") cuboid(4);
+```
+![Figure 2](images/tutorials/Attachment-Parts_2.png)
+
+Now when we align the cube to the BACK wall of the tube it appears on
+the inside of the tube.  If you need to attach to both the inside and
+outside you can place some attachments using `attach_part()` and some
+with the standard attachment geometry on the outside like this:
+
+```openscad
+include<BOSL2/std.scad>
+diff()
+tube(id=20,h=15,wall=3){
+  attach([1,-1/2],BOT)
+    color("green")cyl(d=4,h=3,$fn=12);
+  attach_part("inside"){
+    attach(LEFT,BOT,align=TOP)
+      color("lightblue")cuboid(4);
+    attach(BACK,CTR,align=TOP,inside=true, inset=-0.1)
+      cuboid(4);
+  }
+}
+```
+![Figure 3](images/tutorials/Attachment-Parts_3.png)
+
+[Next: Using Color with Attachments](Tutorial-Attachment-Color)

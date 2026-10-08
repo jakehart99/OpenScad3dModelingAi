@@ -1,0 +1,242 @@
+[
+  {
+    "orientation": "Z_down",
+    "rotation_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        -1.0,
+        -1.2246467991473532e-16,
+        0.0
+      ],
+      [
+        0.0,
+        1.2246467991473532e-16,
+        -1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      40.0,
+      30.0,
+      7.999998207092293
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 0.0,
+    "candidate_overhang_faces": 0,
+    "bed_contact_area_mm2": 1192.8756688703006,
+    "bed_reference_z_mm": -7.999999046325685
+  },
+  {
+    "orientation": "original_Z_up",
+    "rotation_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      40.0,
+      30.0,
+      7.99999820709229
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 0.0,
+    "candidate_overhang_faces": 0,
+    "bed_contact_area_mm2": 1192.2385839735239,
+    "bed_reference_z_mm": 8.392333938900265e-07
+  },
+  {
+    "orientation": "Y_up",
+    "rotation_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        6.123233995736766e-17,
+        -1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        6.123233995736766e-17,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      40.0,
+      7.9999982070922915,
+      30.0
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 32.29658016254536,
+    "candidate_overhang_faces": 36,
+    "bed_contact_area_mm2": 277.38267381365165,
+    "bed_reference_z_mm": -15.0
+  },
+  {
+    "orientation": "Y_down",
+    "rotation_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        6.123233995736766e-17,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        -1.0,
+        6.123233995736766e-17,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      40.0,
+      7.9999982070922915,
+      30.0
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 32.29658016254537,
+    "candidate_overhang_faces": 35,
+    "bed_contact_area_mm2": 277.38267381365165,
+    "bed_reference_z_mm": -15.0
+  },
+  {
+    "orientation": "X_up",
+    "rotation_matrix": [
+      [
+        6.123233995736766e-17,
+        0.0,
+        -1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        6.123233995736766e-17,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      7.9999982070922915,
+      30.0,
+      40.0
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 32.29658639364659,
+    "candidate_overhang_faces": 39,
+    "bed_contact_area_mm2": 197.38270697750858,
+    "bed_reference_z_mm": -20.0
+  },
+  {
+    "orientation": "X_down",
+    "rotation_matrix": [
+      [
+        6.123233995736766e-17,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        -1.0,
+        0.0,
+        6.123233995736766e-17,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dimensions_mm": [
+      7.9999982070922915,
+      30.0,
+      40.0
+    ],
+    "fits_with_margin": true,
+    "overhang_angle_from_vertical_deg": 45,
+    "candidate_overhang_area_mm2": 32.2965863936466,
+    "candidate_overhang_faces": 41,
+    "bed_contact_area_mm2": 197.38270697750855,
+    "bed_reference_z_mm": -20.0
+  }
+]
